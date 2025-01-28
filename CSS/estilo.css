@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(37, 231, 111);
+}
+img{
+    width: 250px;
+    height: 500px;
+}
+#img1{
+    width:500px;
+    height:500px;
+    border-radius:81px;
+}
+#botoncito{
+    color: rosybrown;
+    background: brown;
+    font-family: Arial;
+    font-size: larger;
+}
+
+nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+a{
+    color: beige;
+    text-decoration: none;
+
+}
+nav ul li a{
+    padding: 40px;
+}
+
+
+
+
